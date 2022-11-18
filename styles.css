@@ -21,6 +21,7 @@ h2,h3 {
         font-style: normal; font-variant: normal; 
         font-weight: 700; line-height: 15.4px; 
         color: white;
+        padding-top: 20px;
     } 
 p { font-family: Book Antiqua, Palatino, Palatino Linotype, Palatino LT STD, Georgia, serif; 
     font-size: 14px; 
